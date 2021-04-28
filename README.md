@@ -1,6 +1,7 @@
 # PyBank-and-PyPoll
 Analysis of two sets of data using Python.
 PyBank:
+
 ![pybank](https://user-images.githubusercontent.com/70447525/116477292-6924d580-a84a-11eb-9fc2-8dd21bf748a0.png)
 
 In PyBank , there is a financial analysis of a company to calculate Total Months, Total Amount of profit and loss, Average  Change, Greatest Increase in Profits, Greatest Decrease in Profits. This analysis is done in below steps:

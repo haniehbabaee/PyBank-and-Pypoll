@@ -10,6 +10,11 @@ In PyBank , there is a financial analysis of a company to calculate Total Months
   * go through each line with for loop to get the total months and total profit and loss and total average change
   * highest and lowest changes in "Profit/Losses" over the entire period and finding its relevant index to find the relevant month.
   * print and export the analysis to a text file.
+ 
+ PyPoll:
+ 
+ ![pypoll](https://user-images.githubusercontent.com/70447525/116477470-abe6ad80-a84a-11eb-83c8-97628e037c02.png)
+
   
  In PyPoll, there is a analysis of a modernize vote counting process of rural town and below is the steps:
   * Import dependencie  and change directory to the directory of current python script and open and read csv
